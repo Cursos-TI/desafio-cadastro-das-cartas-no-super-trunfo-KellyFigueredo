@@ -6,7 +6,6 @@
 // Siga os comentários para implementar cada parte do desafio.
 
 int main() {
-   printf ("Desafio Super Trunfo:\n");
    char código;
    char nome[50];
    int população;
